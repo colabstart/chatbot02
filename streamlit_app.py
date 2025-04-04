@@ -2,9 +2,9 @@ import streamlit as st
 from openai import OpenAI
 
 # Show title and description.
-st.title("💬 TOTO의 제주도 여행 가이드 서비스")
+st.title("💬 토리의 제주도 여행")
 st.write(
-    "TOTO의 제주도 여행 가이드 서비스는 OpenAI의 GPT-3.5 모델을 활용하여, 여러분의 여행을 더욱 즐겁고 편리하게 만들어주는 스마트 챗봇입니다."
+    "TOTO의 제주도 여행 가이드 서비스는 OpenAI의 GPT-4o mini 모델을 활용하여, 여러분의 여행을 더욱 즐겁고 편리하게 만들어주는 스마트 챗봇입니다."
     "간단히 OpenAI API 키만 입력하면 바로 이용하실 수 있어요."
 )
 
